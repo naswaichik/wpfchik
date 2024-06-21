@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\bin\Debug\Задание 1 Триггеры в WPF-приложениях.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\bin\Debug\Задание 1 Триггеры в WPF-приложениях.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\bin\Debug\Задание 1 Триггеры в WPF-приложениях.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание_1_Триггеры_в_WPF_приложениях.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 Триггеры в WPF-приложениях\obj\Debug\Задание 1 Триггеры в WPF-приложениях_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\bin\Debug\Задание 1 Триггеры в WPF-приложениях.exe.config
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\bin\Debug\Задание 1 Триггеры в WPF-приложениях.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\bin\Debug\Задание 1 Триггеры в WPF-приложениях.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях.g.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание_1_Триггеры_в_WPF_приложениях.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 6 Задание 1\obj\Debug\Задание 1 Триггеры в WPF-приложениях.pdb

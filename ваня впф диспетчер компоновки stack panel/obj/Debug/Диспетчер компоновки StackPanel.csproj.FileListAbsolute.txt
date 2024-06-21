@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\bin\Debug\Диспетчер компоновки StackPanel.exe.config
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\bin\Debug\Диспетчер компоновки StackPanel.exe
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\bin\Debug\Диспетчер компоновки StackPanel.pdb
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel.g.resources
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер_компоновки_StackPanel.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel.exe
+C:\Users\user\Desktop\WPF\Диспетчер компоновки StackPanel\obj\Debug\Диспетчер компоновки StackPanel.pdb

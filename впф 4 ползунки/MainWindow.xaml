@@ -1,0 +1,17 @@
+﻿<Window x:Class="впф_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:впф_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="fontSizeTextBox" Text="{Binding ElementName=slider1, Path=Value, Mode=TwoWay}" FontSize="20" />
+        <TextBlock Text="Привет" FontSize="{Binding ElementName=slider1, Path=Value}"  Margin="0,46,0,-46" />
+        <Slider x:Name="slider1" Margin="0,103,0,-103"  />
+        <Slider x:Name="slider2" Value="{Binding ElementName=slider1, Path=Value}" Margin="0,75,0,-95"/>
+
+
+    </Grid>
+</Window>

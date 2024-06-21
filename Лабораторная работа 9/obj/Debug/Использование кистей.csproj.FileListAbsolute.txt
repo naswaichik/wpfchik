@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\bin\Debug\Использование кистей.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\bin\Debug\Использование кистей.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\bin\Debug\Использование кистей.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование_кистей.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Использование кистей\obj\Debug\Использование кистей_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\bin\Debug\Использование кистей.exe.config
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\bin\Debug\Использование кистей.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\bin\Debug\Использование кистей.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей.g.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование_кистей.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 9\obj\Debug\Использование кистей.pdb

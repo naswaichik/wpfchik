@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\bin\Debug\Задание 1 трансформация.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\bin\Debug\Задание 1 трансформация.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\bin\Debug\Задание 1 трансформация.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация_MarkupCompile.lref
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание_1_трансформация.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 1 трансформация\obj\Debug\Задание 1 трансформация.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\bin\Debug\Задание 1 трансформация.exe.config
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\bin\Debug\Задание 1 трансформация.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\bin\Debug\Задание 1 трансформация.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация.g.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание_1_трансформация.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 8 Задание 1\obj\Debug\Задание 1 трансформация.pdb

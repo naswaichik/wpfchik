@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\bin\Debug\Лабораторная работа 13 Задание 2.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\bin\Debug\Лабораторная работа 13 Задание 2.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\bin\Debug\Лабораторная работа 13 Задание 2.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная_работа_13_Задание_2.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2_MarkupCompile.lref
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2_MarkupCompile.cache
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2_MarkupCompile.lref
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.g.resources
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\bin\Debug\Лабораторная работа 13 Задание 2.exe.config
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\bin\Debug\Лабораторная работа 13 Задание 2.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\bin\Debug\Лабораторная работа 13 Задание 2.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.g.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная_работа_13_Задание_2.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 13 Задание 2\obj\Debug\Лабораторная работа 13 Задание 2.pdb

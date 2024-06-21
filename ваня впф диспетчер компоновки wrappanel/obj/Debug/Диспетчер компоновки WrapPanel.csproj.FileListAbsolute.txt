@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\bin\Debug\Диспетчер компоновки WrapPanel.exe.config
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\bin\Debug\Диспетчер компоновки WrapPanel.exe
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\bin\Debug\Диспетчер компоновки WrapPanel.pdb
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel.g.resources
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер_компоновки_WrapPanel.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel.exe
+C:\Users\user\Desktop\WPF\Диспетчер компоновки WrapPanel\obj\Debug\Диспетчер компоновки WrapPanel.pdb

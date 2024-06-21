@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\bin\Debug\Лабораторная работа 10 Задание 1.exe.config
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\bin\Debug\Лабораторная работа 10 Задание 1.exe
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\bin\Debug\Лабораторная работа 10 Задание 1.pdb
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1_MarkupCompile.cache
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1_MarkupCompile.lref
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1.g.resources
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная_работа_10_Задание_1.Properties.Resources.resources
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1.exe
+C:\Users\User\Desktop\Папки\WPF\Лабораторная работа 10 Задание 1\Лабораторная работа 10 Задание 1\obj\Debug\Лабораторная работа 10 Задание 1.pdb

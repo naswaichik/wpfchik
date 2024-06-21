@@ -1,0 +1,48 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\bin\Debug\Задание 3 Анимация.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\bin\Debug\Задание 3 Анимация.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\bin\Debug\Задание 3 Анимация.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация_MarkupCompile.lref
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание_3_Анимация.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 3 Анимация\obj\Debug\Задание 3 Анимация.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\bin\Debug\Задание 3 Анимация.exe.config
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\bin\Debug\Задание 3 Анимация.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\bin\Debug\Задание 3 Анимация.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.g.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание_3_Анимация.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.pdb
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\bin\Debug\Задание 3 Анимация.exe.config
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\bin\Debug\Задание 3 Анимация.exe
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\bin\Debug\Задание 3 Анимация.pdb
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\App.g.cs
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация_MarkupCompile.cache
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация_MarkupCompile.lref
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.g.resources
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание_3_Анимация.Properties.Resources.resources
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.csproj.GenerateResource.cache
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.exe
+C:\Users\user\Desktop\впф\Лабораторная работа 7 Задание 3\obj\Debug\Задание 3 Анимация.pdb

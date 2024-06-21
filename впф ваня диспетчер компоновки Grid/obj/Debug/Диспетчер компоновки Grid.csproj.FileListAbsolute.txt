@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\bin\Debug\Диспетчер компоновки Grid.exe.config
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\bin\Debug\Диспетчер компоновки Grid.exe
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\bin\Debug\Диспетчер компоновки Grid.pdb
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid.g.resources
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер_компоновки_Grid.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid.exe
+C:\Users\user\Desktop\WPF\Диспетчер компоновки Grid\obj\Debug\Диспетчер компоновки Grid.pdb

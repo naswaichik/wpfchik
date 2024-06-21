@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\bin\Debug\Задание 2 элементы управления.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\bin\Debug\Задание 2 элементы управления.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\bin\Debug\Задание 2 элементы управления.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание 2 элементы управления.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание 2 элементы управления.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание 2 элементы управления_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание 2 элементы управления.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание_2_элементы_управления.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание 2 элементы управления.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание 2 элементы управления.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание 2 элементы управления.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 элементы управления\obj\Debug\Задание 2 элементы управления.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\bin\Debug\Задание 2 элементы управления.exe.config
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\bin\Debug\Задание 2 элементы управления.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\bin\Debug\Задание 2 элементы управления.pdb
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание 2 элементы управления.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание 2 элементы управления.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание 2 элементы управления_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание 2 элементы управления.g.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание_2_элементы_управления.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание 2 элементы управления.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание 2 элементы управления.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание 2 элементы управления.exe
+C:\Users\user\Desktop\WPF\Лабораторная работа 3 Задание 2\obj\Debug\Задание 2 элементы управления.pdb
